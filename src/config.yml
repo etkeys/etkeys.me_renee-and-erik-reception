@@ -1,0 +1,20 @@
+baseURL: ''
+title: "Renee & Erik's marriage reception"
+theme: hugo-scroll
+
+defaultContentLanguage: "en"
+
+disableKinds: ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+
+params:
+  copyright: '© Erik Keys'
+  description: "Renee & Erik's marriage reception info site."
+  title: "Renee & Erik's marriage reception site"
+
+  # favicon: ''
+  images: ["images/cover-background.webp"]
+
+  hidedesignbyline: false
+
+  meta:
+    keywords: "Renee, LaFay, Erik, Keys, wedding, reception, registry, info"

@@ -1,0 +1,53 @@
+
+/* Actual <header> stuff */
+#site-head {
+    background-color: #522029;
+    background-size: contain;
+    background-position-y: top;
+}
+#site-head .blog-title, .blog-description {
+    text-shadow:
+        -1px 1px 0 #000,
+        1px 1px 0 #000,
+        1px -1px 0 #000,
+        -1px -1px 0 #000;
+}
+#header-image2 {
+    display: block;
+    max-width: 15em;
+    margin: 0 auto;
+}
+
+/* Header buttons on Startpage */
+a.btn {
+    color: whitesmoke;
+    background-color: blue;
+}
+a.btn:hover {
+    color: blue;
+    /* background-color: salmon; */
+    background-color: deeppink;
+}
+
+/* Content / Sections */
+body{
+    color: whitesmoke;
+    background-color: #522029;
+}
+.fixed-nav {
+    background-color: #522029;
+}
+.post-holder {
+    color: whitesmoke;
+    background-color: #522029;
+}
+.post-holder.odd {
+    color: whitesmoke;
+    background-color: #522029;
+}
+.post-content img {
+    display: block;
+    margin: 0 auto;
+    width: 70%;
+}
+
