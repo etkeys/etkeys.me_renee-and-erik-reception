@@ -3,7 +3,7 @@ name: DEPLOY (test)
 on:
   push:
     branches-ignore:
-      - master
+      - main
 
 jobs:
   deploy:
