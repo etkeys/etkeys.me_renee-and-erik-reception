@@ -12,7 +12,7 @@ params:
   title: "Renee & Erik's marriage reception site"
 
   # favicon: ''
-  images: ["images/cover-background.webp"]
+  images: ['images/renee-and-erik-portrait.jpg']
 
   hidedesignbyline: false
 
