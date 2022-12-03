@@ -8,6 +8,8 @@ Where: 3467 Azalea Garden Rd, Norfolk, VA 23513
 
 When: May 20, 2023 at 3:00 PM
 
+Theme: Star Wars 😄. Theme appropriate costumes are welcome but not required.
+
 Menu: Open buffet.  
 Vegetarian and gluten free options will be available.
 
