@@ -2,8 +2,11 @@
 title: Image gallery
 ---
 
-![Erik proposes to Renee](../images/image-gallery/erik-proposes-to-renee.jpg)
+- [The Engagement](#the-engagement)
 
-![Renee said Yes](../images/image-gallery/renee-said-yes.jpg)
+## The Engagement
+![Erik proposes to Renee](../images/image-gallery/engagement/erik-proposes-to-renee.jpg)
 
-![The engagement rings](../images/image-gallery/the-engagement-rings.jpg)
+![Renee said Yes](../images/image-gallery/engagement/renee-said-yes.jpg)
+
+![The engagement rings](../images/image-gallery/engagement/the-engagement-rings.jpg)

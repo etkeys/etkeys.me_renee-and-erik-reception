@@ -1,3 +1,4 @@
 .publish/
 src/.hugo_build.lock
 src/archetypes
+src/public
