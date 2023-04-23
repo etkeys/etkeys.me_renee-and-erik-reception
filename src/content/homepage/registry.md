@@ -27,3 +27,8 @@ Venmo: @Erik-Keys
 
 {{<icon class="fa fa-paypal">}}
 Paypal: @ErikKeys (paypal.me/ErikKeys)
+
+### Amazon registry
+We have set up a wedding registry with Amazon:
+
+{{<icon class="fa fa-amazon">}}: >>[Renee LaFay & Erik Keys](https://www.amazon.com/wedding/share/Renee-Erik)<<
